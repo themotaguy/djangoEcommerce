@@ -14,7 +14,7 @@ Built an ECommerce website using Django Framework and Bootstrap.
 
 **1. Clone Repository & Install Packages**
 ```sh
-git clone https://github.com/shyam999/Django-ecommerce.git
+git clone https://github.com/themotaguy/djangoEcommerce.git
 pip install -r requirements.txt
 ```
 
